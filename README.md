@@ -12,3 +12,7 @@ with DecisionTree. use the buildDecitionTree static function to build a Decision
 Data package:
   contains utility functions that DecisionTree uses.
   for testing purposes it also contains static Lists that represent tables
+
+
+Use at your own risk.
+Don't let the bedbugs bite.
